@@ -3,7 +3,7 @@ Privacy Policy
 
 Last Updated: [12/18/2023]
 
-Welcome to https://alassly.com/ ("we," "our," or "us"). This Privacy Policy outlines the types of personal information we collect, how we use and protect that information, and your choices regarding your personal information.
+Welcome to [[متجر الأصلي](https://alassly.com/)] ("we," "our," or "us"). This Privacy Policy outlines the types of personal information we collect, how we use and protect that information, and your choices regarding your personal information.
 
 1. Information We Collect
 
@@ -48,4 +48,5 @@ If you have any questions about this Privacy Policy, please contact us at [conta
 
 By using our website, you agree to the terms of this Privacy Policy.
 
-https://alassly.com/
+تسوق الآن أقوى عروض اجهزة كهربائية ومكيفات بالمملكة فقط من متاجر الاصلي الالكترونية وبأفضل الأسعار الحصرية والعروض والخصومات الهائلة
+https://alassly.com/ 
